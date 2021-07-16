@@ -1,4 +1,6 @@
 # react-portfolio
 
 this is the read me
-# react-three
+
+
+trying to delpoy this project
